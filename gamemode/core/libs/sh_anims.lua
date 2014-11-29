@@ -120,8 +120,8 @@ nut.anim.citizen_female = {
 		attack = ACT_MELEE_ATTACK_SWING
 	},
 	glide = ACT_GLIDE,
-	vehicle = {"sitchair1",
-				Vector(0, 0, -25),
+	vehicle = {"Silo_Sit",
+				Vector(5, -1, -21),
 				Angle()},
 }
 nut.anim.metrocop = {
